@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-client/src/test/java/org/apache/rave/provider/opensocial/service
+END
+SecurityTokenServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-client/src/test/java/org/apache/rave/provider/opensocial/service/SecurityTokenServiceTest.java
+END
+OpenSocialServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-client/src/test/java/org/apache/rave/provider/opensocial/service/OpenSocialServiceTest.java
+END
+OpenSocialWidgetMetadataResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-client/src/test/java/org/apache/rave/provider/opensocial/service/OpenSocialWidgetMetadataResolverTest.java
+END

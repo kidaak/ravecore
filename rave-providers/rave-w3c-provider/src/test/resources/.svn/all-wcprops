@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-providers/rave-w3c-provider/src/test/resources
+END
+allwidgets.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-providers/rave-w3c-provider/src/test/resources/allwidgets.xml
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-providers/rave-w3c-provider/src/test/resources/log4j.xml
+END
+singlewidget.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-providers/rave-w3c-provider/src/test/resources/singlewidget.xml
+END

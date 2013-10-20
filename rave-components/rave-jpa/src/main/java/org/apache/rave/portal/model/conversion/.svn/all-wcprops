@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1521317/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion
+END
+JpaActivityStreamsMediaLinkConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaActivityStreamsMediaLinkConverter.java
+END
+JpaOAuthConsumerStoreConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaOAuthConsumerStoreConverter.java
+END
+JpaPageLayoutConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaPageLayoutConverter.java
+END
+JpaPageTemplateWidgetConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaPageTemplateWidgetConverter.java
+END
+JpaPageTemplateRegionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaPageTemplateRegionConverter.java
+END
+JpaPageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1521317/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaPageConverter.java
+END
+JpaUserConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaUserConverter.java
+END
+JpaWidgetTagConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaWidgetTagConverter.java
+END
+JpaWidgetConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaWidgetConverter.java
+END
+JpaRegionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaRegionConverter.java
+END
+JpaAddressConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaAddressConverter.java
+END
+JpaAuthorityConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaAuthorityConverter.java
+END
+JpaGroupConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1479383/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaGroupConverter.java
+END
+JpaApplicationDataConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaApplicationDataConverter.java
+END
+JpaWidgetCommentConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaWidgetCommentConverter.java
+END
+JpaPageTemplateConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1513311/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaPageTemplateConverter.java
+END
+JpaTagConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaTagConverter.java
+END
+JpaPersonPropertyConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaPersonPropertyConverter.java
+END
+JpaPageUserConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaPageUserConverter.java
+END
+JpaActivityStreamsEntryConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaActivityStreamsEntryConverter.java
+END
+JpaCategoryConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaCategoryConverter.java
+END
+JpaConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1355060/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaConverter.java
+END
+ConvertingListProxyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1355060/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/ConvertingListProxyFactory.java
+END
+JpaActivityStreamsObjectConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaActivityStreamsObjectConverter.java
+END
+JpaRegionWidgetPreferenceConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaRegionWidgetPreferenceConverter.java
+END
+JpaRegionWidgetConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaRegionWidgetConverter.java
+END
+JpaWidgetRatingConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaWidgetRatingConverter.java
+END
+JpaOAuthTokenInfoConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaOAuthTokenInfoConverter.java
+END
+JpaPortalPreferenceConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaPortalPreferenceConverter.java
+END
+JpaOrganizationConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaOrganizationConverter.java
+END
+JpaPersonConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/conversion/JpaPersonConverter.java
+END

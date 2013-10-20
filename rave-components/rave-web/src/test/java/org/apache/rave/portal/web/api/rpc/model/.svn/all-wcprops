@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-web/src/test/java/org/apache/rave/portal/web/api/rpc/model
+END
+RpcResultTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-web/src/test/java/org/apache/rave/portal/web/api/rpc/model/RpcResultTest.java
+END
+RpcOperationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-web/src/test/java/org/apache/rave/portal/web/api/rpc/model/RpcOperationTest.java
+END

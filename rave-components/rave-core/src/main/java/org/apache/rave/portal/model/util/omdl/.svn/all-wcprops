@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/model/util/omdl
+END
+OmdlConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1422906/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/model/util/omdl/OmdlConstants.java
+END
+BadOmdlXmlFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1398096/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/model/util/omdl/BadOmdlXmlFormatException.java
+END
+OmdlInputAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1422906/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/model/util/omdl/OmdlInputAdapter.java
+END
+OmdlModelUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1398096/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/model/util/omdl/OmdlModelUtils.java
+END
+OmdlOutputAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/model/util/omdl/OmdlOutputAdapter.java
+END
+OmdlWidgetReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1422906/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/model/util/omdl/OmdlWidgetReference.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1398096/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/model/util/omdl/package-info.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-commons/src/test/java/org/apache/rave/exception
+END
+DuplicateItemExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-commons/src/test/java/org/apache/rave/exception/DuplicateItemExceptionTest.java
+END
+NotSupportedExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-commons/src/test/java/org/apache/rave/exception/NotSupportedExceptionTest.java
+END

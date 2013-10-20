@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1463126/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/web/renderer
+END
+ScriptLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1454092/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/web/renderer/ScriptLocation.java
+END
+RegionWidgetRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1463126/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/web/renderer/RegionWidgetRenderer.java
+END
+RegionWidgetWrapperRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1462207/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/web/renderer/RegionWidgetWrapperRenderer.java
+END
+ScriptManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1363010/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/web/renderer/ScriptManager.java
+END
+RenderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1462207/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/web/renderer/RenderService.java
+END
+Renderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1462207/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/web/renderer/Renderer.java
+END
+RenderScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/web/renderer/RenderScope.java
+END

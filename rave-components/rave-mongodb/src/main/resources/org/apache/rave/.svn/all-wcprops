@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1434001/rave/trunk/rave-components/rave-mongodb/src/main/resources/org/apache/rave
+END
+WidgetRatingsMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1428544/rave/trunk/rave-components/rave-mongodb/src/main/resources/org/apache/rave/WidgetRatingsMap.js
+END
+WidgetUsersReduce.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1428544/rave/trunk/rave-components/rave-mongodb/src/main/resources/org/apache/rave/WidgetUsersReduce.js
+END
+persistence-applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1434001/rave/trunk/rave-components/rave-mongodb/src/main/resources/org/apache/rave/persistence-applicationContext.xml
+END
+WidgetRatingsReduce.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1428544/rave/trunk/rave-components/rave-mongodb/src/main/resources/org/apache/rave/WidgetRatingsReduce.js
+END
+WidgetUsersMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1428544/rave/trunk/rave-components/rave-mongodb/src/main/resources/org/apache/rave/WidgetUsersMap.js
+END
+marshaller-applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1428544/rave/trunk/rave-components/rave-mongodb/src/main/resources/org/apache/rave/marshaller-applicationContext.xml
+END

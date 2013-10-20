@@ -1,0 +1,43 @@
+10
+
+dir
+1531182
+http://svn.apache.org/repos/asf/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/jsp
+http://svn.apache.org/repos/asf
+
+
+
+2013-10-01T19:23:10.953436Z
+1528185
+mfranklin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+includes
+dir
+
+common
+dir
+
+views
+dir
+
+templates
+dir
+
+layouts
+dir
+

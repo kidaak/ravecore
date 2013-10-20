@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1504819/rave/trunk/rave-components/rave-web/src/main/java/org/apache/rave/portal/web/tag
+END
+JavaScriptDebugModeTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-web/src/main/java/org/apache/rave/portal/web/tag/JavaScriptDebugModeTag.java
+END
+StaticContentTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-web/src/main/java/org/apache/rave/portal/web/tag/StaticContentTag.java
+END
+WidgetTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-web/src/main/java/org/apache/rave/portal/web/tag/WidgetTag.java
+END
+ScriptTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-web/src/main/java/org/apache/rave/portal/web/tag/ScriptTag.java
+END
+ModelContextTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1479206/rave/trunk/rave-components/rave-web/src/main/java/org/apache/rave/portal/web/tag/ModelContextTag.java
+END
+ShowStackTraceTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-web/src/main/java/org/apache/rave/portal/web/tag/ShowStackTraceTag.java
+END
+PersonTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-web/src/main/java/org/apache/rave/portal/web/tag/PersonTag.java
+END
+RegionWidgetTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1504819/rave/trunk/rave-components/rave-web/src/main/java/org/apache/rave/portal/web/tag/RegionWidgetTag.java
+END
+AbstractContextAwareSingletonBeanDependentTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-web/src/main/java/org/apache/rave/portal/web/tag/AbstractContextAwareSingletonBeanDependentTag.java
+END
+RenderInitializationScriptTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-web/src/main/java/org/apache/rave/portal/web/tag/RenderInitializationScriptTag.java
+END
+RegisterInitializationScriptTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-web/src/main/java/org/apache/rave/portal/web/tag/RegisterInitializationScriptTag.java
+END

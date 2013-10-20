@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1406032/rave/trunk/rave-integration-tests/rave-admin-tests/src/main/stories
+END
+manageCategories.story
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1406032/rave/trunk/rave-integration-tests/rave-admin-tests/src/main/stories/manageCategories.story
+END
+deleteNewUser.story
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1406025/rave/trunk/rave-integration-tests/rave-admin-tests/src/main/stories/deleteNewUser.story
+END

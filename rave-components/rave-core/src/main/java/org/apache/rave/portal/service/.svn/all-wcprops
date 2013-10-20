@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1521535/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/service
+END
+CaptchaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/service/CaptchaService.java
+END
+NewAccountService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/service/NewAccountService.java
+END
+PageLayoutService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/service/PageLayoutService.java
+END
+TagService.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1509242/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/service/TagService.java
+END
+PageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1521535/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/service/PageService.java
+END
+CategoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1509242/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/service/CategoryService.java
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1509242/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/service/UserService.java
+END
+RemoteWidgetResolverService.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/service/RemoteWidgetResolverService.java
+END
+WidgetService.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1509242/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/service/WidgetService.java
+END
+RegionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1509242/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/service/RegionService.java
+END
+WidgetMetadataResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/service/WidgetMetadataResolver.java
+END
+RegionWidgetService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1509242/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/service/RegionWidgetService.java
+END
+EmailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/service/EmailService.java
+END
+AuthorityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1509242/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/service/AuthorityService.java
+END
+OmdlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/service/OmdlService.java
+END
+WidgetMarketplaceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1509242/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/service/WidgetMarketplaceService.java
+END
+WidgetProviderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/service/WidgetProviderService.java
+END
+PortalPreferenceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1509242/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/service/PortalPreferenceService.java
+END

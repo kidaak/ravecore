@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1530735/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model
+END
+JpaGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1484374/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaGroup.java
+END
+JpaOAuthTokenInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1463714/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaOAuthTokenInfo.java
+END
+JpaWidgetComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaWidgetComment.java
+END
+JpaPageTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1530735/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaPageTemplate.java
+END
+JpaOAuthConsumerStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1463714/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaOAuthConsumerStore.java
+END
+JpaActivityStreamsMediaLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaActivityStreamsMediaLink.java
+END
+JpaActivityStreamsItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaActivityStreamsItem.java
+END
+JpaWidgetTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaWidgetTag.java
+END
+JpaActivityStreamsObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaActivityStreamsObject.java
+END
+BasicEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1450044/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/BasicEntity.java
+END
+JpaRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1508123/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaRegion.java
+END
+JpaWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1507405/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaWidget.java
+END
+JpaAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaAddress.java
+END
+JpaRegionWidgetPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaRegionWidgetPreference.java
+END
+JpaWidgetRating.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaWidgetRating.java
+END
+JpaApplicationData.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1463714/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaApplicationData.java
+END
+JpaPortalPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1508123/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaPortalPreference.java
+END
+JpaPersonAssociation.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaPersonAssociation.java
+END
+JpaOrganization.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaOrganization.java
+END
+JpaPerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1508490/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaPerson.java
+END
+JpaPageLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaPageLayout.java
+END
+JpaPageUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1496775/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaPageUser.java
+END
+JpaPersonProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaPersonProperty.java
+END
+JpaTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaTag.java
+END
+JpaPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1521327/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaPage.java
+END
+JpaPageTemplateRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaPageTemplateRegion.java
+END
+JpaPageTemplateWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaPageTemplateWidget.java
+END
+JpaCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1507405/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaCategory.java
+END
+JpaActivityStreamsEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaActivityStreamsEntry.java
+END
+JpaUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaUser.java
+END
+JpaRegionWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1508123/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaRegionWidget.java
+END
+JpaAuthority.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-jpa/src/main/java/org/apache/rave/portal/model/JpaAuthority.java
+END

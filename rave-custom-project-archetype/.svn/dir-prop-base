@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 43
+.project
+.settings
+.classpath
+*.iml
+target
+
+END

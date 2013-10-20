@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1503074/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/jsp/templates
+END
+base_layout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1503074/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/jsp/templates/base_layout.jsp
+END
+partial_layout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1368850/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/jsp/templates/partial_layout.jsp
+END

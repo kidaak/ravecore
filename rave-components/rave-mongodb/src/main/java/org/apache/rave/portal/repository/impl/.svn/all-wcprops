@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1530735/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl
+END
+MongoDbTagRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1508490/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbTagRepository.java
+END
+MongoDbPageRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1521327/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbPageRepository.java
+END
+MongoDbCategoryRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1507405/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbCategoryRepository.java
+END
+MongoDbUserRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1508123/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbUserRepository.java
+END
+MongoGroupTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1480867/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoGroupTemplate.java
+END
+MongoDbWidgetRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbWidgetRepository.java
+END
+MongoDbMapReduceStatisticsAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1428544/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbMapReduceStatisticsAggregator.java
+END
+MongoDbRegionRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1508123/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbRegionRepository.java
+END
+MongoModelTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1428544/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoModelTemplate.java
+END
+MongoDbRegionWidgetRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1508123/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbRegionWidgetRepository.java
+END
+MongoDbAuthorityRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1508490/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbAuthorityRepository.java
+END
+MongoDbActivityStreamsRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1508490/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbActivityStreamsRepository.java
+END
+MongoDbGroupRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1508490/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbGroupRepository.java
+END
+MongoDbOAuthTokenInfoRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1508490/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbOAuthTokenInfoRepository.java
+END
+MongoDbApplicationDataRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1508490/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbApplicationDataRepository.java
+END
+MongoPageTemplateTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1529994/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoPageTemplateTemplate.java
+END
+MongoDbPortalPreferenceRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1508123/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbPortalPreferenceRepository.java
+END
+MongoTagTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoTagTemplate.java
+END
+MongoPageTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoPageTemplate.java
+END
+MongoUserTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoUserTemplate.java
+END
+MongoDbPersonRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1508121/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbPersonRepository.java
+END
+MongoDbPageTemplateRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1530735/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbPageTemplateRepository.java
+END
+MongoWidgetTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoWidgetTemplate.java
+END
+MongoDbOauthConsumerStoreRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1508490/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbOauthConsumerStoreRepository.java
+END
+MongoDbPageLayoutRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1508490/rave/trunk/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbPageLayoutRepository.java
+END

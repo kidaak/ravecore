@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1509242/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/model/util
+END
+LocalizedString.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/model/util/LocalizedString.java
+END
+InternationalString.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/model/util/InternationalString.java
+END
+WidgetStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/model/util/WidgetStatistics.java
+END
+WidgetMarketplaceWidgetResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1496775/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/model/util/WidgetMarketplaceWidgetResult.java
+END
+ModelUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/model/util/ModelUtils.java
+END
+WidgetMarketplaceSearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1509242/rave/trunk/rave-components/rave-core/src/main/java/org/apache/rave/portal/model/util/WidgetMarketplaceSearchResult.java
+END

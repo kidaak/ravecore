@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1530015/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/applicationContext.xml
+END
+dispatcher-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1496775/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/dispatcher-servlet.xml
+END
+applicationContext-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1460000/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/applicationContext-security.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/web.xml
+END
+tiles-defs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1396590/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/tiles-defs.xml
+END
+cxf-applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1530015/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/cxf-applicationContext.xml
+END

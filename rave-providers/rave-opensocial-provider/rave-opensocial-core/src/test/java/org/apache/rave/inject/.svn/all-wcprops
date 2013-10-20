@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1375133/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/test/java/org/apache/rave/inject
+END
+GuiceBindingSpringContextLoaderListenerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/test/java/org/apache/rave/inject/GuiceBindingSpringContextLoaderListenerTest.java
+END
+SpringBindingModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1375133/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/test/java/org/apache/rave/inject/SpringBindingModuleTest.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-portal/src/test/resources
+END
+portal.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-portal/src/test/resources/portal.properties
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-portal/src/test/resources/log4j.xml
+END
+test-applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-portal/src/test/resources/test-applicationContext.xml
+END
+security_token_encryption_key.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-portal/src/test/resources/security_token_encryption_key.txt
+END
+initial-data.json
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1445805/rave/trunk/rave-portal/src/test/resources/initial-data.json
+END

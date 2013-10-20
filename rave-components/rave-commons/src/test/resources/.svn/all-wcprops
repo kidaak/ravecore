@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1358651/rave/trunk/rave-components/rave-commons/src/test/resources
+END
+applicationContext-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1358651/rave/trunk/rave-components/rave-commons/src/test/resources/applicationContext-test.xml
+END
+test-data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-commons/src/test/resources/test-data.sql
+END
+portal-test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-commons/src/test/resources/portal-test.properties
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-commons/src/test/resources/log4j.xml
+END
+test-child.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-commons/src/test/resources/test-child.sql
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1504819/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/main/java/org/apache/rave/opensocial/service/impl
+END
+DefaultOAuth2Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/main/java/org/apache/rave/opensocial/service/impl/DefaultOAuth2Service.java
+END
+FieldRestrictingPerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/main/java/org/apache/rave/opensocial/service/impl/FieldRestrictingPerson.java
+END
+OpenSocialActivityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/asf/!svn/ver/1440428/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/main/java/org/apache/rave/opensocial/service/impl/OpenSocialActivityService.java
+END
+DefaultPersonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/main/java/org/apache/rave/opensocial/service/impl/DefaultPersonService.java
+END
+DefaultAppDataService.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/asf/!svn/ver/1504819/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/main/java/org/apache/rave/opensocial/service/impl/DefaultAppDataService.java
+END
+DefaultActivityStreamsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/main/java/org/apache/rave/opensocial/service/impl/DefaultActivityStreamsService.java
+END
+DefaultGroupService.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/main/java/org/apache/rave/opensocial/service/impl/DefaultGroupService.java
+END
+DefaultMediaItemService.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/main/java/org/apache/rave/opensocial/service/impl/DefaultMediaItemService.java
+END

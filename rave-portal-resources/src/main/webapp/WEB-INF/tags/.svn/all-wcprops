@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1524166/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/tags
+END
+third_party_js.tag
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1503074/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/tags/third_party_js.tag
+END
+region_widget.tag
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1503074/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/tags/region_widget.tag
+END
+rave_js.tag
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1524166/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/tags/rave_js.tag
+END
+rave_meta_data.tag
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1333593/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/tags/rave_meta_data.tag
+END
+admin_listheader.tag
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/tags/admin_listheader.tag
+END
+client_side_templates.tag
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1463130/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/tags/client_side_templates.tag
+END
+third_party_css.tag
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1329241/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/tags/third_party_css.tag
+END
+login_navbar.tag
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1422096/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/tags/login_navbar.tag
+END
+rave_css.tag
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1351806/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/tags/rave_css.tag
+END
+third_party_head_js.tag
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1503074/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/tags/third_party_head_js.tag
+END
+custom_js.tag
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/tags/custom_js.tag
+END
+navbar.tag
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1428544/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/tags/navbar.tag
+END
+admin_tabsheader.tag
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1422096/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/tags/admin_tabsheader.tag
+END
+admin_paging.tag
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1509242/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/tags/admin_paging.tag
+END
+simple_regions.tag
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/tags/simple_regions.tag
+END
+title.tag
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/tags/title.tag
+END
+custom_css.tag
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/tags/custom_css.tag
+END
+region.tag
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-portal-resources/src/main/webapp/WEB-INF/tags/region.tag
+END

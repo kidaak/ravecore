@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/main/java/org/apache/rave/gadgets/oauth/service/impl
+END
+DefaultOAuthTokenInfoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/main/java/org/apache/rave/gadgets/oauth/service/impl/DefaultOAuthTokenInfoService.java
+END
+DefaultOAuthConsumerStoreService.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/main/java/org/apache/rave/gadgets/oauth/service/impl/DefaultOAuthConsumerStoreService.java
+END

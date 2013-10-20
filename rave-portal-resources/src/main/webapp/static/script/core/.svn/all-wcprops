@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1523733/rave/trunk/rave-portal-resources/src/main/webapp/static/script/core
+END
+rave_log.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1504554/rave/trunk/rave-portal-resources/src/main/webapp/static/script/core/rave_log.js
+END
+rave_ajax.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1504588/rave/trunk/rave-portal-resources/src/main/webapp/static/script/core/rave_ajax.js
+END
+rave_openajax_hub.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1504588/rave/trunk/rave-portal-resources/src/main/webapp/static/script/core/rave_openajax_hub.js
+END
+rave_widget.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1508501/rave/trunk/rave-portal-resources/src/main/webapp/static/script/core/rave_widget.js
+END
+rave_view_manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1504554/rave/trunk/rave-portal-resources/src/main/webapp/static/script/core/rave_view_manager.js
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1523056/rave/trunk/rave-portal-resources/src/main/webapp/static/script/core/main.js
+END
+rave_action_manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1523169/rave/trunk/rave-portal-resources/src/main/webapp/static/script/core/rave_action_manager.js
+END
+rave_api.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1514245/rave/trunk/rave-portal-resources/src/main/webapp/static/script/core/rave_api.js
+END
+rave_state_manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1504268/rave/trunk/rave-portal-resources/src/main/webapp/static/script/core/rave_state_manager.js
+END
+rave_event_manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1504268/rave/trunk/rave-portal-resources/src/main/webapp/static/script/core/rave_event_manager.js
+END
+rave_opensocial.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1523733/rave/trunk/rave-portal-resources/src/main/webapp/static/script/core/rave_opensocial.js
+END
+rave_providers.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1504554/rave/trunk/rave-portal-resources/src/main/webapp/static/script/core/rave_providers.js
+END
+rave_widget_manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1504588/rave/trunk/rave-portal-resources/src/main/webapp/static/script/core/rave_widget_manager.js
+END
+rave_wookie.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1504588/rave/trunk/rave-portal-resources/src/main/webapp/static/script/core/rave_wookie.js
+END

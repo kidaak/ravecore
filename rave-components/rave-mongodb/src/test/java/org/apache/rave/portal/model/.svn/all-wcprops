@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1521317/rave/trunk/rave-components/rave-mongodb/src/test/java/org/apache/rave/portal/model
+END
+MongoDbPersonAssociationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-mongodb/src/test/java/org/apache/rave/portal/model/MongoDbPersonAssociationTest.java
+END
+MongoDbWidgetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-mongodb/src/test/java/org/apache/rave/portal/model/MongoDbWidgetTest.java
+END
+MongoDbAuthorityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-mongodb/src/test/java/org/apache/rave/portal/model/MongoDbAuthorityTest.java
+END
+MongoDbPageTemplateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-mongodb/src/test/java/org/apache/rave/portal/model/MongoDbPageTemplateTest.java
+END
+MongoDbPageLayoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-mongodb/src/test/java/org/apache/rave/portal/model/MongoDbPageLayoutTest.java
+END
+MongoDbCategoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-mongodb/src/test/java/org/apache/rave/portal/model/MongoDbCategoryTest.java
+END
+MongoDbUserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-mongodb/src/test/java/org/apache/rave/portal/model/MongoDbUserTest.java
+END
+MongoDbPortalPreferenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1428544/rave/trunk/rave-components/rave-mongodb/src/test/java/org/apache/rave/portal/model/MongoDbPortalPreferenceTest.java
+END

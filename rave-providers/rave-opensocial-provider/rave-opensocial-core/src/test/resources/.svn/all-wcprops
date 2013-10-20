@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1440223/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/test/resources
+END
+test_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/test/resources/test_data.sql
+END
+rave-shindig-test-dataContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1358651/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/test/resources/rave-shindig-test-dataContext.xml
+END
+rave.shindig.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1428544/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/test/resources/rave.shindig.properties
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/test/resources/log4j.xml
+END
+initial_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/test/resources/initial_data.sql
+END
+rave-shindig-test-applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1440223/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/test/resources/rave-shindig-test-applicationContext.xml
+END
+rave.shindig.custom.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-providers/rave-opensocial-provider/rave-opensocial-core/src/test/resources/rave.shindig.custom.properties
+END

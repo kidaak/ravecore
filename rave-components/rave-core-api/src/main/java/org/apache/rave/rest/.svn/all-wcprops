@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1530015/rave/trunk/rave-components/rave-core-api/src/main/java/org/apache/rave/rest
+END
+PeopleResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1512413/rave/trunk/rave-components/rave-core-api/src/main/java/org/apache/rave/rest/PeopleResource.java
+END
+CategoriesResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1512326/rave/trunk/rave-components/rave-core-api/src/main/java/org/apache/rave/rest/CategoriesResource.java
+END
+PagesForRenderResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1512413/rave/trunk/rave-components/rave-core-api/src/main/java/org/apache/rave/rest/PagesForRenderResource.java
+END
+RegionsResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1509789/rave/trunk/rave-components/rave-core-api/src/main/java/org/apache/rave/rest/RegionsResource.java
+END
+PageLayoutResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1513222/rave/trunk/rave-components/rave-core-api/src/main/java/org/apache/rave/rest/PageLayoutResource.java
+END
+RegionWidgetsResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1509789/rave/trunk/rave-components/rave-core-api/src/main/java/org/apache/rave/rest/RegionWidgetsResource.java
+END
+PageTemplatesResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1530015/rave/trunk/rave-components/rave-core-api/src/main/java/org/apache/rave/rest/PageTemplatesResource.java
+END
+PageUsersResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1511948/rave/trunk/rave-components/rave-core-api/src/main/java/org/apache/rave/rest/PageUsersResource.java
+END
+PagesResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1511948/rave/trunk/rave-components/rave-core-api/src/main/java/org/apache/rave/rest/PagesResource.java
+END
+PortalPreferenceResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1513241/rave/trunk/rave-components/rave-core-api/src/main/java/org/apache/rave/rest/PortalPreferenceResource.java
+END
+UsersResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1463126/rave/trunk/rave-components/rave-core-api/src/main/java/org/apache/rave/rest/UsersResource.java
+END

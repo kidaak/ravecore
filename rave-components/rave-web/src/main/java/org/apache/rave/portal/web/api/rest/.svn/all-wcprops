@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1508948/rave/trunk/rave-components/rave-web/src/main/java/org/apache/rave/portal/web/api/rest
+END
+AbstractRestApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1305402/rave/trunk/rave-components/rave-web/src/main/java/org/apache/rave/portal/web/api/rest/AbstractRestApi.java
+END
+WidgetApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1508948/rave/trunk/rave-components/rave-web/src/main/java/org/apache/rave/portal/web/api/rest/WidgetApi.java
+END
+RegionWidgetApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1504819/rave/trunk/rave-components/rave-web/src/main/java/org/apache/rave/portal/web/api/rest/RegionWidgetApi.java
+END
+PageApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1459881/rave/trunk/rave-components/rave-web/src/main/java/org/apache/rave/portal/web/api/rest/PageApi.java
+END
