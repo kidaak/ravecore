@@ -36,6 +36,7 @@
     bean scanning of o.a.r.p.web.* components which can cause problems.
     -->
     <context:component-scan base-package="org.apache.rave.portal.web.controller"/>
+    <context:component-scan base-package="org.dhara.portal.web.controllers"/>
     <context:component-scan base-package="org.apache.rave.portal.web.api"/>
     <context:component-scan base-package="org.apache.rave.provider.opensocial.controller;"/>
 
