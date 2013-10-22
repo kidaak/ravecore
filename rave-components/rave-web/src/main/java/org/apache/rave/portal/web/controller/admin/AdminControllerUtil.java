@@ -106,8 +106,12 @@ public final class AdminControllerUtil {
         categories.setSelected("categories".equals(selectedItem));
 
 	//modified for dhara
-	NavigationItem gateway = new NavigationItem("admin.gateway.shortTitle", null, null);
-        categories.setSelected("gateway".equals(selectedItem));
+	NavigationItem workflows = new NavigationItem("admin.workflows.shortTitle", null, null);
+        categories.setSelected("workflows".equals(selectedItem));
+
+	//modified for dhara
+	NavigationItem experiments = new NavigationItem("admin.experiments.shortTitle", null, null);
+        categories.setSelected("experiments".equals(selectedItem));
 
         // set url of nav items with or without the referring page id
         if (referringPageId != null && !referringPageId.isEmpty()) {
@@ -116,14 +120,16 @@ public final class AdminControllerUtil {
             widgets.setUrl("/app/admin/widgets?referringPageId=" + referringPageId);
             preferences.setUrl("/app/admin/preferences?referringPageId=" + referringPageId);
             categories.setUrl("/app/admin/categories?referringPageId=" + referringPageId);
-	    gateway.setUrl("/app/admin/gateway?referringPageId=" + referringPageId);		//modified for dhara
+	    workflows.setUrl("/app/admin/workflows?referringPageId=" + referringPageId);		//modified for dhara
+	    experiments.setUrl("/app/admin/experiments?referringPageId=" + referringPageId);		//modified for dhara
         } else {
             home.setUrl("/app/admin");
             users.setUrl("/app/admin/users");
             widgets.setUrl("/app/admin/widgets");
             preferences.setUrl("/app/admin/preferences");
             categories.setUrl("/app/admin/categories");
-	    gateway.setUrl("/app/admin/gateway");						//modified for dhara
+	    workflows.setUrl("/app/admin/workflows");						//modified for dhara
+	    experiments.setUrl("/app/admin/experiments");						//modified for dhara
         }
 
         // add nav items to menu
@@ -132,7 +138,8 @@ public final class AdminControllerUtil {
         menu.addNavigationItem(widgets);
         menu.addNavigationItem(preferences);
         menu.addNavigationItem(categories);
-	menu.addNavigationItem(gateway);							//modified for dhara
+	menu.addNavigationItem(workflows);							//modified for dhara
+	menu.addNavigationItem(experiments);							//modified for dhara
 
         return menu;
     }
