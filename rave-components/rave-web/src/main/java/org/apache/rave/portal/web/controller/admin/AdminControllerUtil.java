@@ -107,11 +107,11 @@ public final class AdminControllerUtil {
 
 	//modified for dhara
 	NavigationItem workflows = new NavigationItem("admin.workflows.shortTitle", null, null);
-        categories.setSelected("workflows".equals(selectedItem));
+        workflows.setSelected("workflows".equals(selectedItem));
 
 	//modified for dhara
 	NavigationItem experiments = new NavigationItem("admin.experiments.shortTitle", null, null);
-        categories.setSelected("experiments".equals(selectedItem));
+        experiments.setSelected("experiments".equals(selectedItem));
 
         // set url of nav items with or without the referring page id
         if (referringPageId != null && !referringPageId.isEmpty()) {
