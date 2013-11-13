@@ -79,8 +79,11 @@ public class ControllerUtils {
                 NavigationItem store = new NavigationItem("page.store.title", null, "/app/store?referringPageId=" + referringPageId);
                 menu.addNavigationItem(store);
             }
+
+            if (isAdmin(user)){
             NavigationItem admin = getAdminItem(referringPageId);
             menu.addNavigationItem(admin);
+            }
 
             NavigationItem logout = getLogoutItem();
             menu.addNavigationItem(logout);
@@ -91,8 +94,10 @@ public class ControllerUtils {
             NavigationItem back = getBackItem(referringPageId);
             menu.addNavigationItem(back);
 
+            if (isAdmin(user)){
             NavigationItem admin = getAdminItem(referringPageId);
             menu.addNavigationItem(admin);
+            }
 
             NavigationItem logout = getLogoutItem();
             menu.addNavigationItem(logout);
@@ -100,8 +105,10 @@ public class ControllerUtils {
             NavigationItem back = getBackItem(referringPageId);
             menu.addNavigationItem(back);
 
+            if (isAdmin(user)){
             NavigationItem admin = getAdminItem(referringPageId);
             menu.addNavigationItem(admin);
+            }
 
             NavigationItem logout = getLogoutItem();
             menu.addNavigationItem(logout);
@@ -117,8 +124,10 @@ public class ControllerUtils {
             NavigationItem back = getBackItem(referringPageId);
             menu.addNavigationItem(back);
 
+            if (isAdmin(user)){
             NavigationItem admin = getAdminItem(referringPageId);
             menu.addNavigationItem(admin);
+            }
 
             NavigationItem logout = getLogoutItem();
             menu.addNavigationItem(logout);
@@ -129,6 +138,7 @@ public class ControllerUtils {
 
     public static String getDisplayName(User user) {
         String displayName = user.getDisplayName();
+
         return (displayName == null || "".equals(displayName)) ? user.getUsername() : displayName;
     }
 
@@ -156,5 +166,13 @@ public class ControllerUtils {
 
     private static NavigationItem getLogoutItem() {
         return new NavigationItem("page.general.logout", null, "/j_spring_security_logout");
+    }
+
+    private static boolean isAdmin(User user){
+        String auth=user.getAuthorities().iterator().next().getAuthority();
+        if(auth.equals("ROLE_ADMIN"))
+            return true;
+        else
+            return false;
     }
 }
